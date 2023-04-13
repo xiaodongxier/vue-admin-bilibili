@@ -1,5 +1,7 @@
 # vue-admin-bilibili
 
+> <https://www.bilibili.com/video/BV1QU4y1E7qo>
+
 ## Project setup
 ```
 yarn install
