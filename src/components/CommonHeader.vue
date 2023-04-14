@@ -1,4 +1,5 @@
 <template>
+  <!-- 顶部header区域 -->
   <div class="header-container">
     <div class="l-contetn">
       <!-- 

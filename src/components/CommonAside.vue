@@ -1,4 +1,5 @@
 <template>
+  <!-- 左侧导航区域 -->
   <div>
     <el-menu default-active="1-4-1" class="el-menu-vertical-demo" @open="handleOpen" @close="handleClose"
       :collapse="isCollapse" 
