@@ -1,4 +1,5 @@
 <template>
+  <!-- 首页组件 -->
   <div class="home">
     <el-row>
       <el-col :span="8">
